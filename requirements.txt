@@ -1,6 +1,6 @@
 # Core Computer Vision and ML Libraries
 opencv-python==4.8.1.78
-mediapipe==0.10.7
+mediapipe==0.10.32
 numpy==1.24.3
 pandas==2.0.3
 
